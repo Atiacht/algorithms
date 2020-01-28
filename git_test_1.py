@@ -1,6 +1,6 @@
 
 def fib(n):
-    a, b = 1, 1
+    x, y = 1, 1
     for i in range(n):
         pass
     pass
@@ -9,4 +9,4 @@ def fib(n):
 if __name__ == "__main__":
     fib(10)
 
-
+# 123123123
