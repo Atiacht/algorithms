@@ -14,5 +14,6 @@ __pycache__/
 # docs
 build/
 /git?test?2.py
+cmd.exe*
 
 .vscode/
